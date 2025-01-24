@@ -9,8 +9,6 @@ Aunque estoy en los inicios de mi carrera, siento que mis Hard Skills y Soft Ski
 Estoy motivado por seguir aprendiendo y desarrollándome como programador. Mi objetivo es seguir construyendo una sólida base de conocimientos que me permita dar el próximo paso hacia una experiencia laboral formal en la industria tecnológica.
 
 # 💼 Trabajos:
-
-#### (En construcción) ⬇️
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alejoNoB20&repo=WOTECH)](https://github.com/alejoNoB20/WOTECH)
 
 # 💻 Stack Tecnológico:
